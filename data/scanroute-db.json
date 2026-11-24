@@ -1,0 +1,1228 @@
+{
+  "users": [],
+  "routes": [
+    {
+      "id": "route-bistro",
+      "slug": "bistro-menu",
+      "title": "Bella Bistro — Table Menu",
+      "category": "Restaurant & Cafe",
+      "defaultUrl": "https://example.com/bella-bistro-dinner-menu",
+      "iosUrl": "",
+      "androidUrl": "",
+      "fallbackUrl": "https://example.com/bella-bistro-hours",
+      "active": true,
+      "fgColor": "#0f172a",
+      "bgColor": "#ffffff",
+      "createdAt": "2026-11-06T22:23:19.717Z",
+      "updatedAt": "2026-11-22T22:23:19.717Z",
+      "ownerId": null,
+      "expiresAt": null
+    },
+    {
+      "id": "route-oakwood",
+      "slug": "oakwood-4b",
+      "title": "142 Oakwood Ave — Yard Sign",
+      "category": "Real Estate",
+      "defaultUrl": "https://example.com/listings/142-oakwood-ave",
+      "iosUrl": "",
+      "androidUrl": "",
+      "fallbackUrl": "https://example.com/listings/all-homes",
+      "active": true,
+      "fgColor": "#0c4a6e",
+      "bgColor": "#ffffff",
+      "createdAt": "2026-11-10T22:23:19.717Z",
+      "updatedAt": "2026-11-23T22:23:19.717Z",
+      "ownerId": null,
+      "expiresAt": null
+    },
+    {
+      "id": "route-glow",
+      "slug": "glow-insert",
+      "title": "GlowBotanics — Box Insert",
+      "category": "Product Packaging",
+      "defaultUrl": "https://example.com/glowbotanics/how-to-use",
+      "iosUrl": "https://apps.apple.com/",
+      "androidUrl": "https://play.google.com/store",
+      "fallbackUrl": "",
+      "active": true,
+      "fgColor": "#1e293b",
+      "bgColor": "#ffffff",
+      "createdAt": "2026-11-13T22:23:19.717Z",
+      "updatedAt": "2026-11-21T22:23:19.717Z",
+      "ownerId": null,
+      "expiresAt": null
+    },
+    {
+      "id": "route-ironworks",
+      "slug": "ironworks-pass",
+      "title": "IronWorks Gym — Free Day Pass",
+      "category": "Local Service",
+      "defaultUrl": "https://example.com/ironworks/claim-pass",
+      "iosUrl": "",
+      "androidUrl": "",
+      "fallbackUrl": "",
+      "active": true,
+      "fgColor": "#0f172a",
+      "bgColor": "#ffffff",
+      "createdAt": "2026-11-15T22:23:19.717Z",
+      "updatedAt": "2026-11-20T22:23:19.717Z",
+      "ownerId": null,
+      "expiresAt": null
+    }
+  ],
+  "scans": [
+    {
+      "id": "91bb5ca7-e750-404a-bd50-244bdca78a56",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T22:52:03.241Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "7e2f77f8-56c5-442d-8229-9f69cd739d6a",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T22:23:19.719Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "16fd3ca6-f5fd-44aa-8ea4-7d93137878e5",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-11T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "462fca1a-9c83-48e1-8401-5bedd92187e3",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-11T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "15520f28-45da-44de-afbf-fa19edfb41a8",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-11T21:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "1bc801f5-2fe6-4615-93a8-5fa34aea70d2",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-11T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "90b70b41-ef27-46b1-9508-3fb66ffd36ad",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-11T20:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "f90ba87c-75bc-4ccb-a8ff-891230dc2ee9",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-11T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "6f319fee-0f3a-4bc3-a6ab-a1c5f99208dc",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-12T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "2e0f3cae-412b-4708-99f1-c931b5d1b2de",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-12T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "13e09135-31dc-46fa-8da1-0b426e742fdb",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-12T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "e8dfd707-dbfd-4959-8ec5-77ffa697c84c",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-12T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "88721582-2f84-437f-84fe-6bff16b23455",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-12T20:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "fab6cccd-2874-4499-a02c-8c20abc7298f",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-12T19:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "e04f1bfc-4ffd-45d0-a38d-29a178910068",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-12T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "5d3bf5a7-ea36-421c-8835-294d5b75dc97",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-13T22:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "0e182d4c-980d-4daf-becb-f2256b44ee78",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-13T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "fe35c523-9c44-44b8-ba52-994c6d8ca931",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-13T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "044a031a-db3e-477f-85fd-26452ade3cc8",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-13T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "dce43e59-1964-4698-8dbc-51166773790a",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-13T20:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "6a0bec0b-6bdb-48aa-9014-8e86e05ffc26",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-13T19:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "5bde1bbd-6e0b-458b-9f4f-7ffddccc8301",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-13T19:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "71164826-ff36-4419-8e9b-59dac80be14e",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-13T18:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "e71cfd27-500b-4696-81fe-66de8259fdbe",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-14T22:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "0a865573-56fb-4c3e-bb81-aa905907c98c",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-14T21:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "5d6ec3c4-b9ac-4988-932a-083333833473",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-14T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "f09b25fb-28f0-4345-82a2-86159d0815d8",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-14T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "92bb48be-686b-49d6-8fa5-fdd9ea06e76a",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-14T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "01c2424d-8e4f-4e7a-ab09-72319409c2bf",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-14T19:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "8336ab0d-1304-4b9b-97f7-24b462e0d47d",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-14T19:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "2d77db24-5598-4a40-93f6-678c6100257f",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-14T18:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ca653b27-13f4-4c2a-a243-e35cf2a4657f",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-14T18:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "a0e4e49e-f08f-4012-aab1-9d19d3ffb5fd",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-15T22:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "7d6f0738-c029-4bba-8db5-af7ee1db4895",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-15T21:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "c13e77dd-8626-4879-aef8-0cc49a390f63",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-15T21:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "9a3dbed5-37d6-4a98-97c5-307fec2b3f91",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-15T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "4c60295b-e5b0-4a9e-b953-769eb441b3a1",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-15T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "f2c24199-8d2d-4873-9e2d-38379809c807",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-15T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "2a0e44cf-1ecf-4701-843c-3c794959b066",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-15T19:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "1e106331-6445-454c-b148-86bc22b9696a",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-15T18:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "3af50405-c3bc-4c6a-8b51-8e27e93adc07",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-15T18:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "9b1f2527-d716-456e-850b-6906a19fa93c",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-15T17:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "7f6473a2-5fec-4452-abb2-8340edc6d251",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-16T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "5c47282c-6e63-485f-a41b-d7771dbf4140",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-16T21:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "2c6c5f85-aff8-4b32-b374-06139cc645bf",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-16T21:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "e710752a-d066-4e38-9b47-c47d1aa01a5f",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-16T20:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "38559545-f71d-48a8-8cba-939e5d7a35d4",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-16T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "6622e919-fe32-4224-bd3e-162e5a64fe66",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-16T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "833d2413-a1e9-4e34-80b6-fcbb4c6947e2",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-17T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "c7a58948-cf18-4769-bc5e-415104c09894",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-17T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "397df888-2962-4055-99fd-d68795452de1",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-17T21:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "03abd078-9f85-44f0-b1d2-d6ff8642aeb3",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-17T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "8b21511d-8cdf-434a-a856-ba9b23acbfa3",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-17T20:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "97088aae-2b9d-409a-8b4c-1f81700995ab",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-17T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "b4edc109-41a5-498d-8909-49fdcf519bd0",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-17T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "0c65e6cf-013a-4d1c-ad57-a1f4a2b7921a",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-18T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "f3f6653a-34cf-4420-b165-b754c0ce0e03",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-18T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "51406cde-a21c-4cae-9704-52a30eeb8e77",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-18T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "6ab04b0a-1810-4c3d-8841-a47cca219ab1",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-18T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "b123fcfd-b1ac-450e-a053-1c2ac7f90d88",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-18T20:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ff671636-3fb3-434f-b95c-4fa3e1f9276d",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-18T19:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "696a4272-dfc3-4f30-b9ce-d42c311c20de",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-18T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "d3c6ad42-846e-4dce-a975-7392d8fdd3c9",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-18T18:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "4679a530-de67-4587-ad85-cb3508c6e75c",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-19T22:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "51b63490-3145-4e79-9b47-a32fb58b177e",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-19T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "e1226277-8fa7-48a7-95e9-3c982f19e994",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-19T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "b2e85bae-1be4-4eec-a5ab-23f299e6db76",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-19T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "d699e490-e623-4dc9-a997-be19a65544a5",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-19T20:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "67f28994-9e6e-4113-a508-84123ddb3b33",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-19T19:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ff8caa73-a7cd-4553-ba18-4ecffe962160",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-19T19:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "3cc2ccd5-8454-4c8b-b056-5e21477fad09",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-19T18:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "3af446a1-7206-4172-87d5-a5f83c2e4dbb",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-19T18:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "6db1a147-0d6c-42cb-892b-f28b069722f1",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-20T22:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "7417cf84-9e2a-4409-88f7-6ee4b1accab7",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-20T21:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ab4459cf-6d2b-40d6-9118-f2461de0651e",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-20T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ea7f5cad-928b-45b9-a77e-fd26218758dc",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-20T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "52b16147-021f-40eb-be5e-867496390579",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-20T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "ab4339c1-ca35-41f9-a641-dfadb5426a0b",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-20T19:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "399e7c48-58d1-405a-aa78-cf7a19ab169c",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-20T19:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "ac19c66e-7cac-471b-afb8-1f36d829a767",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-20T18:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "b78db376-1cbc-4760-817c-611d11c8881b",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-20T18:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "0ef5649e-0c6f-447a-8b5b-4cb34c5972ee",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-20T17:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "4d351d75-bc24-48c6-8886-f39db1bdea6b",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-21T22:23:19.717Z",
+      "device": "Android",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "16458430-1ee7-4f68-b895-0937dc524045",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-21T21:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "5b4268ea-501b-432d-a626-d0dcc22ef56a",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-21T21:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "c84fece7-8e76-4928-aff4-f14bb326a2b5",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-21T20:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "7b367d35-75f6-4079-a5ba-c3308820a4e9",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-21T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "22492ec6-5257-4cec-9fbd-8a7683fb0a48",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-21T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "702d7827-de03-436f-8aa7-82ea440ac186",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-21T19:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "d8da2b8a-701c-43a9-9f62-3a242b7b0dfb",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-21T18:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "4dbe9100-1f5b-476b-9748-df0eaee0d9b7",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-21T18:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "923eee7e-68af-4aad-9f58-bf4b184304a0",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-21T17:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "92a5db0d-fbaf-4a75-bda7-34d05057a959",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-22T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "954970c9-fd4c-46a8-8a6c-968fde35d6e7",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-22T21:53:19.717Z",
+      "device": "Android",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "a0393784-1605-4976-bad3-a4e83a0de811",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-22T21:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "ffbf3326-e9ce-42b5-858e-447252920e0f",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-22T20:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "a8d50d91-28b3-4f0a-9c32-273b09977218",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-22T20:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "585c8e9e-3225-47ac-8c9c-512a3a51675c",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-22T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "1d219cda-abf4-4c30-9eff-3d48d8326f34",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-22T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "941bea56-1640-40fe-ab76-cfea67acb2d1",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-22T18:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "f6cc5f5e-3620-46ee-baa4-c0e43b1eb8eb",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-22T18:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "374812dc-e9f9-4e7c-88a2-72e008c14b53",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-22T17:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "19f14038-2be8-4257-bf49-ac43ac6b3d43",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-22T17:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "cfcdae80-d211-4a3b-a8b6-12e8d56215dc",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-23T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "4c32e1e8-ad78-4c48-b464-d7b279baac90",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-23T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "778444c4-e15b-47bf-8505-00ba11c26070",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-23T21:23:19.717Z",
+      "device": "Android",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "0cae7b59-371e-489a-b2bb-342161f2c581",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-23T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "9982731c-58fc-4c63-96e0-163940f864f1",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-23T20:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "d594981c-06e0-44d7-a040-a21569bdeb11",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-23T19:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "32bc12e5-e565-4a57-b7a6-5df0938fa6fb",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-23T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "4aad85bf-2c37-4f99-816a-8dbbb33790b2",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-23T18:53:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "142c8ae7-df15-4c9c-9018-975a99364d43",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-23T18:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "74df4736-e9bb-4a45-a4db-9a88476b2baa",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-23T17:53:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "89d702f6-64a8-4337-97e3-e08ba45537ea",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-23T17:23:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "dccbe63e-2ab2-4d8c-8a0e-65bfa046b3cd",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-23T16:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "065dfdec-4b99-4884-ae69-7ecd0d386e8f",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T22:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "313cb478-1bf7-4394-957e-4c446f020fbe",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-24T21:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "d4f0b639-b5a7-448f-a9ff-a31d3147be94",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-24T21:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "6b2cf0dd-65fd-4fca-81ab-4925723e73a0",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-24T20:53:19.717Z",
+      "device": "Android",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "927fd5dd-5641-4b67-a55b-b5f27214682b",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T20:23:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "89eda394-0284-4fc9-bef4-d59059698844",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-24T19:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "c5d6d593-5f35-4a7e-a4d6-1bdbd4fc49be",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-24T19:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "b4772c9f-ad56-4179-a675-1ef0ec5ba162",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-24T18:53:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "3344fb89-1ed3-4341-b0ed-d7a52ce9547b",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T18:23:19.717Z",
+      "device": "iOS",
+      "referrer": "Direct Link",
+      "simulated": false
+    },
+    {
+      "id": "61ef6c00-4d6b-4e95-a688-7ba6f31c9964",
+      "routeId": "route-oakwood",
+      "slug": "oakwood-4b",
+      "timestamp": "2026-11-24T17:53:19.717Z",
+      "device": "Android",
+      "referrer": "Instagram Bio",
+      "simulated": false
+    },
+    {
+      "id": "ca6fc435-dcba-412c-877a-0699b5e10ef5",
+      "routeId": "route-glow",
+      "slug": "glow-insert",
+      "timestamp": "2026-11-24T17:23:19.717Z",
+      "device": "Android",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "8b690a2f-0b65-48a4-971b-769df0de1add",
+      "routeId": "route-ironworks",
+      "slug": "ironworks-pass",
+      "timestamp": "2026-11-24T16:53:19.717Z",
+      "device": "Desktop",
+      "referrer": "QR Camera",
+      "simulated": false
+    },
+    {
+      "id": "68f5221b-6ad0-47b0-972d-d4c6a82082e2",
+      "routeId": "route-bistro",
+      "slug": "bistro-menu",
+      "timestamp": "2026-11-24T16:23:19.717Z",
+      "device": "iOS",
+      "referrer": "QR Camera",
+      "simulated": false
+    }
+  ],
+  "inquiries": []
+}

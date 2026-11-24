@@ -1,0 +1,6 @@
+{
+  "name": "Azure Yield — Student Credit Market Finder",
+  "description": "Find low-maintenance micro-SaaS markets and model 12-month Azure Student Pack unit economics before writing a line of code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
